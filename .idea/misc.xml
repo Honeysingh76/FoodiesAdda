@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable-hdpi/prgress_back.xml" value="0.1485" />
+        <entry key="app/src/main/res/drawable/background_category.xml" value="0.151" />
+        <entry key="app/src/main/res/drawable/background_intro.xml" value="0.132" />
+        <entry key="app/src/main/res/drawable/background_white.xml" value="0.151" />
+        <entry key="app/src/main/res/drawable/card_background.xml" value="0.151" />
+        <entry key="app/src/main/res/drawable/email_box.xml" value="0.1295" />
+        <entry key="app/src/main/res/drawable/grey_bar.xml" value="0.151" />
+        <entry key="app/src/main/res/drawable/grey_btn_background.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/intro_button.xml" value="0.132" />
+        <entry key="app/src/main/res/drawable/orange_btn.xml" value="0.1415" />
+        <entry key="app/src/main/res/drawable/profile_card_back.xml" value="0.1365" />
+        <entry key="app/src/main/res/drawable/search_background.xml" value="0.22" />
+        <entry key="app/src/main/res/drawable/white_recommeded_btn.xml" value="0.151" />
+        <entry key="app/src/main/res/drawable/yellow_bar.xml" value="0.151" />
+        <entry key="app/src/main/res/drawable/yellow_btn_background.xml" value="0.151" />
+        <entry key="app/src/main/res/layout/activity_cart.xml" value="0.22" />
+        <entry key="app/src/main/res/layout/activity_detail.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_intro_screen.xml" value="0.22" />
+        <entry key="app/src/main/res/layout/activity_login.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="app/src/main/res/layout/activity_main2.xml" value="0.14065840102607952" />
+        <entry key="app/src/main/res/layout/activity_profile.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_show.xml" value="0.14065840102607952" />
+        <entry key="app/src/main/res/layout/activity_show_detail.xml" value="0.22" />
+        <entry key="app/src/main/res/layout/activity_show_login_btn.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/activity_signin.xml" value="0.15625" />
+        <entry key="app/src/main/res/layout/activity_signup.xml" value="0.313915857605178" />
+        <entry key="app/src/main/res/layout/progress_dialog.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/viewholder_all_food.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/viewholder_cart.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/viewholder_category.xml" value="0.75" />
+        <entry key="app/src/main/res/layout/viewholder_recommended.xml" value="0.5" />
+        <entry key="app/src/main/res/menu/bottom_menu.xml" value="0.22" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
